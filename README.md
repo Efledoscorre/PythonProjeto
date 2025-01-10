@@ -40,8 +40,8 @@ Projeto realizado em Python para representar um sistema de recomendação de via
  Projeto realizado no windows 11
 
  # Links para download: 
-  ### [Python](https://www.python.org/downloads/)
-  ### [Pycharm](https://www.jetbrains.com/pycharm/)
+  * ### [Python](https://www.python.org/downloads/)
+  * ### [Pycharm](https://www.jetbrains.com/pycharm/)
 
 <hr>
 
